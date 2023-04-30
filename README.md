@@ -7,7 +7,7 @@
 
 - [☄・Deploys](#deploys)
 - [🔰・Features](#features)
-- [🌌・Discord](https://discord.gg/novaworld)
+- [🌌・Discord](https://discord.gg/hotty)
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 
