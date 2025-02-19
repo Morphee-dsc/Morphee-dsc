@@ -1,5 +1,5 @@
 <h1 align="center">
-Morphée#0777 on discord
+lwpl on discord
 </h1>
 
 ---
